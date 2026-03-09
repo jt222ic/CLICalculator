@@ -1,0 +1,8 @@
+Teknikers namn: jan
+Arbetsobjekt: tran
+-------------------------
+RAD1 :Är huvudbrytaren låst (LOTO)?: j
+RAD2 :Har spänningslöshet verifierats?: j
+RAD3 :Använder du 1000V-isolerade verktyg?: j
+RAD4 :Är området avspärrat?: j
+RAD5 :Är personlig skyddsutrustning korrekt påsatt?: j
